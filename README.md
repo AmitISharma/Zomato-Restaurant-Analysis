@@ -30,4 +30,4 @@ The analysis confirms that order volume is the strongest predictor of revenue, a
 - Power Query (Data Cleaning)
 - DAX (Custom Measures)
 - Relational Data Modeling
-- Data Visualization & Storytelling
+- Data Visualization & Storytelling.
